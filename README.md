@@ -6,20 +6,16 @@
 
   <a href="https://app.daily.dev/sarathkumarmp"><img src="https://api.daily.dev/devcards/v2/3jOArR2dO4aNOccOcpqI8.png?r=4o5" width="356" alt="sarathkumar mp's Dev Card"/></a>
 
-
-
-  
-
 # 💫 About Me :
-- 😄 Pronouns: He/His
+- 😄 Pronouns: Mr.
 - 🔭 I’m currently building [Frappe](https://frappe.io/).
-- 🌱 I’m currently learning more about Javascript.
-- 💬 Ask me about Javascript and UI .
+- 🌱 I’m currently learning more about Javascript and python.
+- 💬 Ask me about ERPNext and Frappe Framework .
 - 📫 How to reach me: Check social links below.
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashkar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashkar/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMjYbaMBPSkSh3hZNR7ONvQ) [![Twitter](https://img.shields.io/twitter/follow/ashkar?logo=Twitter&style=for-the-badge)](https://twitter.com/ashkar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarathkumarmp55/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sarathkumar M P/) 
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MariaDB](https://img.shields.io/badge/MariaDB-%234ea94b.svg?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Frappe](https://img.shields.io/badge/frappe-%2300f.svg?style=for-the-badge&logo=erpnext&logoColor=blue)  ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-Cloud-blue) 
