@@ -30,13 +30,13 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarathkumar MP&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarathkumarmp55&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sarathkumar MP&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarathkumar MP&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarathkumarmp55&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarathkumarmp55&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
